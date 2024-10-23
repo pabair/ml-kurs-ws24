@@ -18,7 +18,7 @@ The recommended way to setup your development environment is to use Miniconda:
 
 5. Install the following packages: numpy, pandas, matplotlib, scikit-learn.
 
-`conda install numpy pandas matplotlib scikit-learn jupyter`
+`conda install numpy pandas matplotlib scikit-learn jupyter seaborn`
 
 6. Test your installation by opening a new jupyter notebook. A new browser window should open.
 
